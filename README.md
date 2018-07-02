@@ -1,3 +1,3 @@
-# call_function_in_application
+# call function in application
 
-clone from [Is it possible to call a non-exported function that resides in an exe?](https://stackoverflow.com/questions/10487165/is-it-possible-to-call-a-non-exported-function-that-resides-in-an-exe)
+cloned from [Is it possible to call a non-exported function that resides in an exe?](https://stackoverflow.com/questions/10487165/is-it-possible-to-call-a-non-exported-function-that-resides-in-an-exe)
